@@ -8,7 +8,7 @@
 3. nodejs
 
 
-Create new app in [dev.twitch.tv](https://dev.twitch.tv)((choose public app))<br>
+Create new app in [dev.twitch.tv](https://dev.twitch.tv)(choose public app)<br>
 This gives you client-id and client-secret<br>
 Update client_id and client_secret in both js scripts<br>
 Modify PATH in start_tmux.sh and both js scripts so it can locate tokens.json file
