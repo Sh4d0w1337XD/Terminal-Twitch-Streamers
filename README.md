@@ -8,8 +8,8 @@
 3. nodejs
 
 
-Create new app [dev.twitch.tv](https://dev.twitch.tv)
-This gives you client-id and client-secret(choose public app).
+Create new app in[dev.twitch.tv](https://dev.twitch.tv)
+. This gives you client-id and client-secret(choose public app).
 Paste the twitch IDs in js scripts.
 
 Run the `start_tmux.sh` and it should work.
