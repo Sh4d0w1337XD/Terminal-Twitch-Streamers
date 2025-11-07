@@ -1,5 +1,6 @@
 const fs = require('fs');
 // VARS
+x
 const tokens_file = '' // PATH to your tokens.json FILE
 const client_id = ""; // yours twitch's app CLIENT ID
 const client_secret = ""; // yours twitch's app CLIENT SECRET
