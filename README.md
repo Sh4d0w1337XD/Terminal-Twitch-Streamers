@@ -8,7 +8,7 @@
 3. nodejs
 
 
-Create new app in[dev.twitch.tv](https://dev.twitch.tv)<br>
+Create new app in [dev.twitch.tv](https://dev.twitch.tv)<br>
 This gives you client-id and client-secret(choose public app)<br>
 Paste the twitch IDs in js scripts.
 
