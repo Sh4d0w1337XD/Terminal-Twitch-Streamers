@@ -3,12 +3,12 @@
 
 ### Requirements
 
-1. twitch.tv Account
+1. [twitch.tv Account](https://twitch.tv)
 2. tmux
 3. nodejs
 
 
-Create new app in <a href='dev.twitch.tv'>dev.twitch.tv</a>
+Create new app [dev.twitch.tv](https://dev.twitch.tv)
 This gives you client-id and client-secret(choose public app).
 Paste the twitch IDs in js scripts.
 
