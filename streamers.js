@@ -1,7 +1,7 @@
 const fs = require('fs');
 const { exec } = require('child_process');
 // VARS
-const tokens_file = '' // PATH to your tokens.json FILE
+const tokens_file = '' // PATH to tokens.json FILE
 const client_id = ""; // yours twitch's app CLIENT ID
 const client_secret = ""; // yours twitch's app CLIENT SECRET
 
