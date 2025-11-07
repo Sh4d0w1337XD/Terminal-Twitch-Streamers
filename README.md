@@ -10,7 +10,8 @@
 
 Create new app in [dev.twitch.tv](https://dev.twitch.tv)<br>
 This gives you client-id and client-secret(choose public app)<br>
-Paste the twitch IDs in js scripts.
+Update tokens in both js and tokens.json files
+Modify PATH in start_tmux.sh and both js scripts so it can find tokens.json file
 
 Run the `start_tmux.sh` and it should work.
 
