@@ -8,8 +8,8 @@
 3. nodejs
 
 
-Create new app in[dev.twitch.tv](https://dev.twitch.tv)
-. This gives you client-id and client-secret(choose public app).
+Create new app in[dev.twitch.tv](https://dev.twitch.tv)<br>
+This gives you client-id and client-secret(choose public app)<br>
 Paste the twitch IDs in js scripts.
 
 Run the `start_tmux.sh` and it should work.
@@ -18,8 +18,8 @@ Run the `start_tmux.sh` and it should work.
 
 #### Modify streamers
 
-Use the search_streamers.js script to find user_id of a twitch streamer.
-`node search_steamers.js streamer`
+Use the search_streamers.js script to find user_id of a twitch streamer<br>
+`node search_steamers.js streamer`<br>
 Then add the modidfy streamers dictionary in streamers_live.js
 
 
