@@ -3,7 +3,7 @@
 
 ### Requirements
 
-1. [twitch.tv Account](https://twitch.tv)
+1. [twitch.tv](https://twitch.tv) Account
 2. tmux
 3. nodejs
 
