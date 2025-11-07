@@ -23,6 +23,6 @@ Use the search_streamers.js script to find user_id of a twitch streamer
 
 `node search_steamers.js streamer`
 
-Then modify streamers dictionary in streamers_live.js script
+Then modify streamers dictionary in streamers.js script
 
 
