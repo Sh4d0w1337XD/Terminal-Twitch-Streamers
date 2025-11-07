@@ -65,7 +65,7 @@ async function refreshTokens() {
     tokens.refresh_token = data.refresh_token;
 }
 
-async function is_live() {
+async function main() {
 	//process.stdout.write('\x1B[?25l'); // hide cursor
 	while (true){
 		const terminalWidth = process.stdout.columns || 80;
@@ -129,4 +129,4 @@ async function is_live() {
 	}
 }
 
-is_live();
+main();
