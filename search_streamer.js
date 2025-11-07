@@ -8,8 +8,8 @@ let tokens = readTokens();
 
 // CHECK ARGS
 const args = process.argv.slice(2);
-if(args.length > 1 || args.length == 0){
-	console.log("   Wrong arguments\n - Usage: node search_channel.js channel_name");
+if(args.length != 1){
+	console.log("   Wrong arguments\n - Usage: node search_streamer.js channel_name");
 }
 const channel = args[0];
 
